@@ -1,0 +1,2 @@
+# discord-prime-bot
+prime
